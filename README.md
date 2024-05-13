@@ -1,6 +1,5 @@
 # FaceMaskDetection
 
-I'd be glad to create a GitHub README for your face mask detection model:
 
 **Face Mask Detection**
 
