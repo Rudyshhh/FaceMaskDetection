@@ -1,0 +1,18 @@
+{
+    "classes": [
+        
+        {
+            "title": "face_no_mask",
+            "shape": "rectangle",
+            "color": "#50E3C2",
+            "geometry_config": {}
+        },
+      
+        {
+            "title": "face_with_mask",
+            "shape": "rectangle",
+            "color": "#F7952B",
+            "geometry_config": {}
+        }
+    ]
+}
